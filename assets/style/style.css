@@ -1,0 +1,61 @@
+header{
+    width:100%;
+    height:580px;
+    background-image: url("../../assets/img/van_accueil.jpg");
+    background-size:cover;
+    
+}
+
+.listeHeader{
+    display:flex;
+    justify-content:flex-end;
+    list-style-type: none;
+
+}
+
+ul{
+    padding-top:35px;
+}
+
+li{
+    margin-right: 35px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+a:link{
+    text-decoration: none;
+    color:white;
+}
+
+.summer_logo{
+    margin-top:10%;
+    margin-left:35%;
+    width:450px;
+    height: 250px;
+}
+
+
+.destinations{
+    border-radius:50%;
+    display:flex;
+}
+
+.moine{
+    width:205px;
+    height:200px;
+    margin-top:15px;
+}
+
+.titre1{
+    color:red;
+    border-bottom: 1px solid;   
+}
+
+
+.div_destinations{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
