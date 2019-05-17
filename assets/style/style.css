@@ -59,3 +59,53 @@ a:link{
     margin-top: 50px;
 }
 
+#coup_de_coeur{
+    margin-top: 30px;
+    background-color: orange;
+    height:700px;
+    
+}
+
+.coup_de_coeurs{
+    display:flex;
+    justify-content: space-around;
+   
+
+}
+
+.pays_border{
+    height: 550px;
+    
+
+    
+}
+
+.img_pays{
+    width:300px;
+    height: 300px;
+    color:red;
+}
+
+.pays{
+    color: red;
+    font-size: 23px;
+    margin: 0px 10px 0px 10px;
+    padding-top: 10px;
+    border-bottom: 1px red solid;
+    margin-bottom: 20px;
+}
+
+.white{
+    background-color: white;
+    width:300px;
+    height: 280px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.info{
+    color:red;
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 5px;
+}
